@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://niangersar.github.io/sitemap.html.gz
+Sitemap: https://niangersar.github.io/app/sitemap.html.gz
+Sitemap: https://niangersar.github.io/assets/sitemap.html.gz
+Sitemap: https://niangersar.github.io/css/sitemap.html.gz
+Sitemap: https://niangersar.github.io/data/sitemap.html.gz
+Sitemap: https://niangersar.github.io/includes/sitemap.html.gz
+Sitemap: https://niangersar.github.io/item/sitemap.html.gz
+Sitemap: https://niangersar.github.io/src/sitemap.html.gz
